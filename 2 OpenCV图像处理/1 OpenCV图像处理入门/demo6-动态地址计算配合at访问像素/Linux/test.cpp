@@ -62,11 +62,6 @@ int main(int argc, char** argv)
                div           
   * @retval    None
   */
-/******************************************************************************
-  *【colorReduce( )函数】
-  * 这描述：
-  *****************************************************************************
-  */
 void colorReduce(Mat& inputImage, Mat& outputImage, int div)  
 {  
 	//参数准备
